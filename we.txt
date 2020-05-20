@@ -1,0 +1,4 @@
+but 1 200 baletki zielone 40
+but 2 100 kozaki czarne 42
+pasta 3 400 szpilki czarne 36
+but 4 250 baletki niebieskie 38
